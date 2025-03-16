@@ -27,4 +27,4 @@ data collection:
   
   reference - https://www.ettoday.net/news/news-list.htm
             
-            - [wutienyang](https://gist.github.com/wutienyang/6bf22fdb1f7e704ae7b7fd280f16beda)
+            - [wutienyang] (https://gist.github.com/wutienyang/6bf22fdb1f7e704ae7b7fd280f16beda)
